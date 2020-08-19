@@ -1,1 +1,1 @@
-# Resume-project
+# Interactive Frontend Development Mini-ProjectResume-project
